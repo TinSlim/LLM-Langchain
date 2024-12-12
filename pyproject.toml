@@ -11,6 +11,7 @@ boto3 = "^1.35.62"
 langchain = "^0.3.7"
 langchain-aws = "^0.2.7"
 python-dotenv = "^1.0.1"
+langgraph = "^0.2.56"
 
 
 [build-system]
